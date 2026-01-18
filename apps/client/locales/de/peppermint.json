@@ -83,4 +83,10 @@
   "select_an_engineer": "Einen Techniker auswählen",
   "ticket_create": "Ticket erstellen",
   "internallycommented_at": "Intern kommentiert um"
+  "reopen_issue": "Ticket wieder öffnen",
+  "needs_support": "Benötigt Hilfe",
+  "in_progress": "In Bearbeitung",
+  "in_review": "In Überprüfung",
+  "done": "Erledigt",
+  "select_new_user": "Neuen Benutzer auswählen"
 }

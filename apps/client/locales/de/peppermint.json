@@ -19,7 +19,7 @@
   "ticket_name_here": "Name",
   "ticket_email_here": "E-Mail",
   "ticket_details": "Titel",
-  "ticket_select_client": "Kunde auswählen",
+  "ticket_select_client": "Kunden auswählen",
   "ticket_select_eng": "Techniker auswählen",
   "ticket_extra_details": "Weitere Details hier eingeben (Markdown wird unterstützt)",
   "cancel": "Abbrechen",
